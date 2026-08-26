@@ -10,4 +10,4 @@ Systems integration engineer focused on hardware functional testing and embedded
 
 ## Background
 
-Cal Poly SLO, Mechanical Engineering (ME405 Mechatronics). Currently deep in hands-on hardware bring-up and functional test work — bootloaders, PCIe/NIC validation, storage bandwidth testing, serial console debugging — on embedded ARM/Jetson-class devices.
+Cal Poly SLO, Mechanical Engineering (Mechatronics). Currently deep in hands-on hardware bring-up and functional test work — bootloaders, PCIe/NIC validation, storage bandwidth testing, serial console debugging — on embedded ARM/Jetson-class devices.
