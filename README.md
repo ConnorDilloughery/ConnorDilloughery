@@ -4,6 +4,7 @@ Systems integration engineer focused on hardware functional testing and embedded
 
 ## Featured projects
 
+- **[Tacoma Telemetry & Sensor-Fusion Logger](https://github.com/ConnorDilloughery/tacoma-telemetry-logger)** — Vehicle-mounted CAN/GNSS/IMU/dashcam telemetry logger with an EKF sensor-fusion pipeline, automated CI regression tests against real recorded drives, and a documented hardware debugging log (undervoltage root-causing, clock-jump correction, sensor fault recovery).
 - **[Whale Tail Surf Cam](https://github.com/ConnorDilloughery/whale-tail-surf-cam)** — Remote camera deployment on a Raspberry Pi with seasonal, power-aware duty-cycle scheduling (modem + capture on/off windows), boot-recovery handling for field redeploys.
 - **[Stock-Stalker](https://github.com/ConnorDilloughery/Stock-Stalker)** — Automated stock/insider-trade screener that scans market and congressional filings, scores candidates, and serves results to a live dashboard on a Raspberry Pi.
 - **[Micrometer Robot Testing](https://github.com/ConnorDilloughery/Micrometer_Robot_Testing)** — Precision/repeatability validation suite for pick-and-place robots, comparing cycle-to-cycle positioning against micrometer measurements.
